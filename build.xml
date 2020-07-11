@@ -27,7 +27,7 @@
 	</target>
 	
 	<target name="clean">
-		<delete dir="dist" />
+		<delete dir="dist1" />
 		<delete dir="build" />
 	</target>
 	
