@@ -27,7 +27,7 @@ o<?xml version="1.0" ?>
 	</target>
 	
 	<target name="clean">
-		<delete dir="dist3" />
+		<delete dir="dist2" />
 		<delete dir="build" />
 	</target>
 	
