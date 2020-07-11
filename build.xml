@@ -1,4 +1,4 @@
-<?xml version="1.0" ?> 
+o<?xml version="1.0" ?> 
 <project name="AntExample1" default="war">
 
 	<path id="compile.classpath">
@@ -27,7 +27,7 @@
 	</target>
 	
 	<target name="clean">
-		<delete dir="dist2" />
+		<delete dir="dist3" />
 		<delete dir="build" />
 	</target>
 	
